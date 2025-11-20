@@ -31,3 +31,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update blue snake contributions visualization [skip ci]"
+          force_orphan: true
