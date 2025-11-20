@@ -1,4 +1,5 @@
 name: GitHub Blue Snake Contributions
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -6,25 +7,23 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-      
+
       - name: Generate Blue Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=blue
-            dist/github-snake-dark.svg?color_snake=cyan&palette=github-dark
-            dist/blue-ocean.gif?color_snake=blue&color_dots=#4169E1,#1E90FF,#87CEEB,#4682B4,#0000CD
+          outputs: dist/github-snake.svg,dist/github-snake-dark.svg,dist/blue-ocean.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
