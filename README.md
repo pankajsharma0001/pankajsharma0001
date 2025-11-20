@@ -1,36 +1,29 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3PjZJxP.gif" width="600" alt="Game Developer Banner">
+  <img src="banner.png" width="100%" alt="Game Developer Banner"/>
 </p>
 
 <h1 align="center">🎮 Pankaj Sharma</h1>
-<h3 align="center">Game Developer • Unreal Engine • C# • Nepal 🇳🇵</h3>
+<h3 align="center">Unreal Engine Developer • Game Programmer • Nepal 🇳🇵</h3>
 
 ---
 
 ## 🕹️ About Me
 
-- 🌱 Currently mastering **Unity Game Development**  
-- 👨‍💻 Check out my projects: **https://github.com/pankajsharma001**  
+- 🎮 Game Developer specializing in **Unity (C#)**  
+- 🌱 Currently exploring **3D Game Mechanics & Multiplayer Systems**  
+- 👨‍💻 All of my projects are available here:  
+  👉 **https://github.com/pankajsharma0001**  
 - 🌐 Portfolio Website: **https://sharmapankaj.com.np**  
-- 📫 Reach me at: **iampankajsharma001@gmail.com**
+- 📫 Contact me: **iampankajsharma001@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-<a href="https://linkedin.com/in/pankaj-sharma-65a724332" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-<a href="https://fb.com/pankaj2466" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
-</a>
-<a href="https://instagram.com/sharmapankaj102030" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-<a href="https://leetcode.com/ydl0lm4m53" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
-</a>
+<a href="https://linkedin.com/in/pankaj-sharma-65a724332"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://fb.com/pankaj2466"><img src="https://skillicons.dev/icons?i=facebook" width="45"/></a>
+<a href="https://instagram.com/sharmapankaj102030"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+<a href="https://leetcode.com/ydl0lm4m53"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
 </p>
 
 ---
@@ -38,7 +31,7 @@
 ## 🧰 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,py,js,react,nodejs,html,css,git,mongodb,ps" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,py,js,react,nodejs,html,css,git,mongodb,ps,figma" />
 </p>
 
 ---
@@ -46,7 +39,7 @@
 ## 🏆 GitHub Trophy  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankajsharma001&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pankajsharma0001&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -54,8 +47,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajsharma001&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma001&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajsharma0001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma0001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -63,22 +56,22 @@
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma001&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma0001&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Game Mode)
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pankajsharma001/pankajsharma001/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/pankajsharma0001/pankajsharma0001/output/snake.svg"/>
 </p>
 
 ---
 
-## 🎮 Game Dev Quote  
+## 🎮 Dev Quote  
 <p align="center">
-  <i>"A great game is a world you never want to leave."</i>
+  <i>"Games are the only medium where you *live* the story, not just witness it."</i>
 </p>
 
 ---
