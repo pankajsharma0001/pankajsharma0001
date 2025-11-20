@@ -9,7 +9,7 @@
 
 ## 🕹️ About Me
 
-- 🎮 Game Developer specializing in **Unity (C#)**  
+- 🎮 Game Developer specializing in **Unreal Engine**  
 - 🌱 Currently exploring **3D Game Mechanics & Multiplayer Systems**  
 - 👨‍💻 All of my projects are available here:  
   👉 **https://github.com/pankajsharma0001**  
