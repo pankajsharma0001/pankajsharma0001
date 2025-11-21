@@ -16,13 +16,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Blue Snake Animations
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg,dist/github-snake-dark.svg,dist/blue-ocean.gif
+          outputs: dist/github-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Debug dist folder
+        run: ls -la dist
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -30,5 +33,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update blue snake contributions visualization [skip ci]"
           force_orphan: true
