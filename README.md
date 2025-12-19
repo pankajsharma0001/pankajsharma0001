@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" width="100%" alt="Game Developer Banner"/>
-</p>
+</p> -->
 
 <h1 align="center">🎮 Pankaj Sharma</h1>
 <h3 align="center">Unreal Engine Developer • Game Programmer • Nepal 🇳🇵</h3>
