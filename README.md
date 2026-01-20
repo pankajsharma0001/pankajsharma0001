@@ -9,9 +9,9 @@
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=pankajsharma0001&style=flat-square&color=blue" alt=""/><br/>
-![](https://github-readme-stats.vercel.app/api?username=rohityadav-sas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohityadav-sas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohityadav-sas&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pankajsharma0001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma0001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma0001&theme=radical&hide_border=false)<br/>
 
 ## 🕹️ About Me
 
@@ -46,15 +46,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pankajsharma0001&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajsharma0001&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma0001&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 
