@@ -9,7 +9,7 @@
 
 ### :fire: My Stats :<br/>
 <img src="https://komarev.com/ghpvc/?username=pankajsharma0001&style=flat-square&color=blue" alt=""/><br/>
-![](https://github-readme-stats.vercel.app/api?username=pankajsharma0001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pankajsharma0001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma0001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma0001&theme=radical&hide_border=false)<br/>
 
